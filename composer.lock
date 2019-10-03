@@ -1578,16 +1578,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "8.7.7",
+            "version": "8.7.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "32e1d7a67bbc28f07dc43d9ff692c0e90a4aeb92"
+                "reference": "476f491b85306c09101106d9b66a5dbe73c21bf0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/32e1d7a67bbc28f07dc43d9ff692c0e90a4aeb92",
-                "reference": "32e1d7a67bbc28f07dc43d9ff692c0e90a4aeb92",
+                "url": "https://api.github.com/repos/drupal/core/zipball/476f491b85306c09101106d9b66a5dbe73c21bf0",
+                "reference": "476f491b85306c09101106d9b66a5dbe73c21bf0",
                 "shasum": ""
             },
             "require": {
@@ -1625,7 +1625,7 @@
                 "symfony/http-kernel": "~3.4.14",
                 "symfony/polyfill-iconv": "^1.0",
                 "symfony/process": "~3.4.0",
-                "symfony/psr-http-message-bridge": "^1.0",
+                "symfony/psr-http-message-bridge": "^1.1.2",
                 "symfony/routing": "~3.4.0",
                 "symfony/serializer": "~3.4.0",
                 "symfony/translation": "~3.4.0",
@@ -1819,7 +1819,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2019-09-04T10:26:35+00:00"
+            "time": "2019-10-02T18:41:30+00:00"
         },
         {
             "name": "drupal/drupal-driver",
@@ -4917,16 +4917,16 @@
         },
         {
             "name": "webflo/drupal-core-strict",
-            "version": "8.7.7",
+            "version": "8.7.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webflo/drupal-core-strict.git",
-                "reference": "01186f472495e337a84e284abc4a03982979aec4"
+                "reference": "21784560e6c9af85219d61f7f8941586d1b91fff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/01186f472495e337a84e284abc4a03982979aec4",
-                "reference": "01186f472495e337a84e284abc4a03982979aec4",
+                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/21784560e6c9af85219d61f7f8941586d1b91fff",
+                "reference": "21784560e6c9af85219d61f7f8941586d1b91fff",
                 "shasum": ""
             },
             "require": {
@@ -5024,7 +5024,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Locked core dependencies",
-            "time": "2019-09-04T10:30:46+00:00"
+            "time": "2019-10-02T19:30:48+00:00"
         },
         {
             "name": "webflo/drupal-finder",
@@ -5213,16 +5213,16 @@
         },
         {
             "name": "zaporylie/composer-drupal-optimizations",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zaporylie/composer-drupal-optimizations.git",
-                "reference": "173c198fd7c9aefa5e5b68cd755ee63eb0abf7e8"
+                "reference": "fb231d92adc862a2c9276bccbc90f684816dc75d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zaporylie/composer-drupal-optimizations/zipball/173c198fd7c9aefa5e5b68cd755ee63eb0abf7e8",
-                "reference": "173c198fd7c9aefa5e5b68cd755ee63eb0abf7e8",
+                "url": "https://api.github.com/repos/zaporylie/composer-drupal-optimizations/zipball/fb231d92adc862a2c9276bccbc90f684816dc75d",
+                "reference": "fb231d92adc862a2c9276bccbc90f684816dc75d",
                 "shasum": ""
             },
             "require": {
@@ -5252,7 +5252,7 @@
                 }
             ],
             "description": "Composer plugin to improve composer performance for Drupal projects",
-            "time": "2019-02-20T10:00:17+00:00"
+            "time": "2019-10-02T17:01:11+00:00"
         },
         {
             "name": "zendframework/zend-diactoros",
