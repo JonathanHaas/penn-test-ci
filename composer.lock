@@ -1579,16 +1579,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "8.7.10",
+            "version": "8.7.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "02400f3ac4970b218dc63064895b3cbbe8576ad9"
+                "reference": "a691876294fadc2795a8add96359b5ffc109d7f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/02400f3ac4970b218dc63064895b3cbbe8576ad9",
-                "reference": "02400f3ac4970b218dc63064895b3cbbe8576ad9",
+                "url": "https://api.github.com/repos/drupal/core/zipball/a691876294fadc2795a8add96359b5ffc109d7f2",
+                "reference": "a691876294fadc2795a8add96359b5ffc109d7f2",
                 "shasum": ""
             },
             "require": {
@@ -1614,7 +1614,7 @@
                 "guzzlehttp/guzzle": "^6.2.1",
                 "masterminds/html5": "^2.1",
                 "paragonie/random_compat": "^1.0|^2.0|^9.99.99",
-                "pear/archive_tar": "^1.4",
+                "pear/archive_tar": "^1.4.9",
                 "php": "^5.5.9|>=7.0.8",
                 "stack/builder": "^1.0",
                 "symfony-cmf/routing": "^1.4",
@@ -1820,7 +1820,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2019-11-13T23:20:55+00:00"
+            "time": "2019-12-18T08:55:29+00:00"
         },
         {
             "name": "drupal/drupal-driver",
@@ -2610,16 +2610,16 @@
         },
         {
             "name": "pear/archive_tar",
-            "version": "1.4.6",
+            "version": "1.4.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pear/Archive_Tar.git",
-                "reference": "b8e33f9063a7cd1d20f079014f8382b3a7aee47e"
+                "reference": "c5b00053770e1d72128252c62c2c1a12c26639f0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pear/Archive_Tar/zipball/b8e33f9063a7cd1d20f079014f8382b3a7aee47e",
-                "reference": "b8e33f9063a7cd1d20f079014f8382b3a7aee47e",
+                "url": "https://api.github.com/repos/pear/Archive_Tar/zipball/c5b00053770e1d72128252c62c2c1a12c26639f0",
+                "reference": "c5b00053770e1d72128252c62c2c1a12c26639f0",
                 "shasum": ""
             },
             "require": {
@@ -2672,7 +2672,7 @@
                 "archive",
                 "tar"
             ],
-            "time": "2019-02-01T11:10:38+00:00"
+            "time": "2019-12-04T10:17:28+00:00"
         },
         {
             "name": "pear/console_getopt",
@@ -5028,16 +5028,16 @@
         },
         {
             "name": "webflo/drupal-core-strict",
-            "version": "8.7.10",
+            "version": "8.7.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webflo/drupal-core-strict.git",
-                "reference": "9d3dc40812ef14b99d29cff23f30814ee5c7b21d"
+                "reference": "e1fd5df67cb79aca1ec1560fb7f428bf1597f713"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/9d3dc40812ef14b99d29cff23f30814ee5c7b21d",
-                "reference": "9d3dc40812ef14b99d29cff23f30814ee5c7b21d",
+                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/e1fd5df67cb79aca1ec1560fb7f428bf1597f713",
+                "reference": "e1fd5df67cb79aca1ec1560fb7f428bf1597f713",
                 "shasum": ""
             },
             "require": {
@@ -5058,7 +5058,7 @@
                 "guzzlehttp/psr7": "1.4.2",
                 "masterminds/html5": "2.3.0",
                 "paragonie/random_compat": "v2.0.18",
-                "pear/archive_tar": "1.4.6",
+                "pear/archive_tar": "1.4.9",
                 "pear/console_getopt": "v1.4.1",
                 "pear/pear-core-minimal": "v1.10.7",
                 "pear/pear_exception": "v1.0.0",
@@ -5138,7 +5138,7 @@
             ],
             "description": "Locked core dependencies",
             "abandoned": "drupal/core-recommended",
-            "time": "2019-11-13T23:30:49+00:00"
+            "time": "2019-12-18T19:00:48+00:00"
         },
         {
             "name": "webflo/drupal-finder",
