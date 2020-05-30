@@ -2009,16 +2009,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "8.3.3",
+            "version": "8.3.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "5804990ed86f6bda429a1be025205523266b597d"
+                "reference": "bfe7f07edc560f9aecb439846dc426f9375f5dec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/5804990ed86f6bda429a1be025205523266b597d",
-                "reference": "5804990ed86f6bda429a1be025205523266b597d",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/bfe7f07edc560f9aecb439846dc426f9375f5dec",
+                "reference": "bfe7f07edc560f9aecb439846dc426f9375f5dec",
                 "shasum": ""
             },
             "require": {
@@ -2032,7 +2032,7 @@
                 "symfony/event-dispatcher": "~2.7|^3|^4.4",
                 "symfony/finder": "~2.7|^3|^4.4",
                 "symfony/process": "~2.7|^3|^4.4",
-                "symfony/var-dumper": "~2.7|^3|^4.4",
+                "symfony/var-dumper": "~2.7|^3|^4.4|^5",
                 "symfony/yaml": "~2.3|^3|^4.4",
                 "webflo/drupal-finder": "^1.1.0",
                 "webmozart/path-util": "~2"
@@ -2043,7 +2043,7 @@
                 "symfony/event-dispatcher": "~2.7",
                 "symfony/finder": "~2.7",
                 "symfony/process": "2.7.*",
-                "symfony/var-dumper": "~2.7",
+                "symfony/var-dumper": "2.8.*",
                 "symfony/yaml": "~2.3"
             },
             "suggest": {
@@ -2119,7 +2119,7 @@
             ],
             "description": "Drush is a command line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those of us who spend some of our working hours hacking away at the command prompt.",
             "homepage": "http://www.drush.org",
-            "time": "2020-05-16T21:38:15+00:00"
+            "time": "2020-05-29T03:44:20+00:00"
         },
         {
             "name": "easyrdf/easyrdf",
