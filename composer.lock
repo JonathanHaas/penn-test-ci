@@ -1553,16 +1553,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "8.9.4",
+            "version": "8.9.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "1de88703485c755d0db7420156432306a0acad8f"
+                "reference": "c9b9643663b80f02c038f9dea15b8717a22c3339"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/1de88703485c755d0db7420156432306a0acad8f",
-                "reference": "1de88703485c755d0db7420156432306a0acad8f",
+                "url": "https://api.github.com/repos/drupal/core/zipball/c9b9643663b80f02c038f9dea15b8717a22c3339",
+                "reference": "c9b9643663b80f02c038f9dea15b8717a22c3339",
                 "shasum": ""
             },
             "require": {
@@ -1780,11 +1780,11 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2020-09-02T11:37:12+00:00"
+            "time": "2020-09-03T21:07:45+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "8.9.4",
+            "version": "8.9.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -1822,7 +1822,7 @@
         },
         {
             "name": "drupal/core-vendor-hardening",
-            "version": "8.9.4",
+            "version": "8.9.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-vendor-hardening.git",
@@ -4275,16 +4275,16 @@
         },
         {
             "name": "symfony/http-kernel",
-            "version": "v3.4.41",
+            "version": "v3.4.44",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-kernel.git",
-                "reference": "e4e4ed6c008c983645b4eee6b67d8f258cde54df"
+                "reference": "27dcaa8c6b18c75df9f37badeb4d3564ffaa1326"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/e4e4ed6c008c983645b4eee6b67d8f258cde54df",
-                "reference": "e4e4ed6c008c983645b4eee6b67d8f258cde54df",
+                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/27dcaa8c6b18c75df9f37badeb4d3564ffaa1326",
+                "reference": "27dcaa8c6b18c75df9f37badeb4d3564ffaa1326",
                 "shasum": ""
             },
             "require": {
@@ -4361,7 +4361,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2020-05-31T05:14:17+00:00"
+            "time": "2020-08-31T05:53:42+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -5490,16 +5490,16 @@
         },
         {
             "name": "webflo/drupal-core-strict",
-            "version": "8.9.4",
+            "version": "8.9.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webflo/drupal-core-strict.git",
-                "reference": "61e8c23948754df13159656455ed788d210d5d51"
+                "reference": "0d43a183d44f451e583aa05dcb35a78d24a5e77a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/61e8c23948754df13159656455ed788d210d5d51",
-                "reference": "61e8c23948754df13159656455ed788d210d5d51",
+                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/0d43a183d44f451e583aa05dcb35a78d24a5e77a",
+                "reference": "0d43a183d44f451e583aa05dcb35a78d24a5e77a",
                 "shasum": ""
             },
             "require": {
@@ -5512,9 +5512,9 @@
                 "doctrine/common": "v2.7.3",
                 "doctrine/inflector": "v1.2.0",
                 "doctrine/lexer": "1.0.2",
-                "drupal/core": "8.9.4",
-                "drupal/core-project-message": "8.9.4",
-                "drupal/core-vendor-hardening": "8.9.4",
+                "drupal/core": "8.9.5",
+                "drupal/core-project-message": "8.9.5",
+                "drupal/core-vendor-hardening": "8.9.5",
                 "easyrdf/easyrdf": "0.9.1",
                 "egulias/email-validator": "2.1.17",
                 "guzzlehttp/guzzle": "6.5.4",
@@ -5543,7 +5543,7 @@
                 "symfony/dependency-injection": "v3.4.41",
                 "symfony/event-dispatcher": "v3.4.41",
                 "symfony/http-foundation": "v3.4.41",
-                "symfony/http-kernel": "v3.4.41",
+                "symfony/http-kernel": "v3.4.44",
                 "symfony/polyfill-ctype": "v1.17.0",
                 "symfony/polyfill-iconv": "v1.17.0",
                 "symfony/polyfill-intl-idn": "v1.17.0",
@@ -5624,7 +5624,7 @@
             ],
             "description": "Locked core dependencies",
             "abandoned": "drupal/core-recommended",
-            "time": "2020-09-02T12:01:06+00:00"
+            "time": "2020-09-03T21:31:06+00:00"
         },
         {
             "name": "webflo/drupal-finder",
