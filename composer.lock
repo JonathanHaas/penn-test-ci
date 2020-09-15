@@ -2011,16 +2011,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "8.4.1",
+            "version": "8.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "aaa17c22a288eb7362f1ce169b9a19bf4af4bb77"
+                "reference": "8c81046290adc38b76cbbc7431eafae060db35a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/aaa17c22a288eb7362f1ce169b9a19bf4af4bb77",
-                "reference": "aaa17c22a288eb7362f1ce169b9a19bf4af4bb77",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/8c81046290adc38b76cbbc7431eafae060db35a2",
+                "reference": "8c81046290adc38b76cbbc7431eafae060db35a2",
                 "shasum": ""
             },
             "require": {
@@ -2121,7 +2121,7 @@
             ],
             "description": "Drush is a command line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those of us who spend some of our working hours hacking away at the command prompt.",
             "homepage": "http://www.drush.org",
-            "time": "2020-08-21T23:23:57+00:00"
+            "time": "2020-09-14T20:18:50+00:00"
         },
         {
             "name": "easyrdf/easyrdf",
