@@ -3460,24 +3460,24 @@
         },
         {
             "name": "rvtraveller/qs-composer-installer",
-            "version": "1.1",
+            "version": "1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rvtraveller/qs-composer-installer.git",
-                "reference": "20d6f4397e4b77599646767ad030092a60f5f92a"
+                "reference": "3d25d4a4348adc8b2276f9cb23eb53393d85c01e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rvtraveller/qs-composer-installer/zipball/20d6f4397e4b77599646767ad030092a60f5f92a",
-                "reference": "20d6f4397e4b77599646767ad030092a60f5f92a",
+                "url": "https://api.github.com/repos/rvtraveller/qs-composer-installer/zipball/3d25d4a4348adc8b2276f9cb23eb53393d85c01e",
+                "reference": "3d25d4a4348adc8b2276f9cb23eb53393d85c01e",
                 "shasum": ""
             },
             "require": {
-                "composer-plugin-api": "~1.0",
-                "composer/installers": "~1.0"
+                "composer-plugin-api": "^1.0 || ^2.0",
+                "composer/installers": "^1.9"
             },
             "require-dev": {
-                "composer/composer": "~1.0@dev"
+                "composer/composer": "1.0.* || 2.0.*@dev"
             },
             "type": "composer-plugin",
             "extra": {
@@ -3494,7 +3494,7 @@
             ],
             "description": "Install Quicksilver modules for Pantheon into custom locations.",
             "homepage": "https://github.com/rvtraveller/qs-composer-installer",
-            "time": "2017-01-27T20:40:31+00:00"
+            "time": "2021-01-04T22:27:18+00:00"
         },
         {
             "name": "stack/builder",
