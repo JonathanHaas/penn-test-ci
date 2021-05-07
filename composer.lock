@@ -1541,16 +1541,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "8.9.14",
+            "version": "8.9.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "84796e158cd3bd50af08974dd62931d0cc78dc7e"
+                "reference": "4804cb039c1e21f841dc4eccb24dc4a90c8280c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/84796e158cd3bd50af08974dd62931d0cc78dc7e",
-                "reference": "84796e158cd3bd50af08974dd62931d0cc78dc7e",
+                "url": "https://api.github.com/repos/drupal/core/zipball/4804cb039c1e21f841dc4eccb24dc4a90c8280c6",
+                "reference": "4804cb039c1e21f841dc4eccb24dc4a90c8280c6",
                 "shasum": ""
             },
             "require": {
@@ -1768,11 +1768,11 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2021-04-20T23:05:40+00:00"
+            "time": "2021-05-05T11:28:48+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "8.9.14",
+            "version": "8.9.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -1810,7 +1810,7 @@
         },
         {
             "name": "drupal/core-vendor-hardening",
-            "version": "8.9.14",
+            "version": "8.9.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-vendor-hardening.git",
@@ -2902,16 +2902,16 @@
         },
         {
             "name": "pear/archive_tar",
-            "version": "1.4.12",
+            "version": "1.4.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pear/Archive_Tar.git",
-                "reference": "19bb8e95490d3e3ad92fcac95500ca80bdcc7495"
+                "reference": "2b87b41178cc6d4ad3cba678a46a1cae49786011"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pear/Archive_Tar/zipball/19bb8e95490d3e3ad92fcac95500ca80bdcc7495",
-                "reference": "19bb8e95490d3e3ad92fcac95500ca80bdcc7495",
+                "url": "https://api.github.com/repos/pear/Archive_Tar/zipball/2b87b41178cc6d4ad3cba678a46a1cae49786011",
+                "reference": "2b87b41178cc6d4ad3cba678a46a1cae49786011",
                 "shasum": ""
             },
             "require": {
@@ -2964,7 +2964,7 @@
                 "archive",
                 "tar"
             ],
-            "time": "2021-01-18T19:32:54+00:00"
+            "time": "2021-02-16T10:50:50+00:00"
         },
         {
             "name": "pear/console_getopt",
@@ -5452,16 +5452,16 @@
         },
         {
             "name": "webflo/drupal-core-strict",
-            "version": "8.9.14",
+            "version": "8.9.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webflo/drupal-core-strict.git",
-                "reference": "7541e19cabe5f131ccce9ebe84804d2bcf3237aa"
+                "reference": "2bcf5f59d160925b2bfb9d2972c70d265b54445e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/7541e19cabe5f131ccce9ebe84804d2bcf3237aa",
-                "reference": "7541e19cabe5f131ccce9ebe84804d2bcf3237aa",
+                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/2bcf5f59d160925b2bfb9d2972c70d265b54445e",
+                "reference": "2bcf5f59d160925b2bfb9d2972c70d265b54445e",
                 "shasum": ""
             },
             "require": {
@@ -5474,9 +5474,9 @@
                 "doctrine/common": "v2.7.3",
                 "doctrine/inflector": "v1.2.0",
                 "doctrine/lexer": "1.0.2",
-                "drupal/core": "8.9.14",
-                "drupal/core-project-message": "8.9.14",
-                "drupal/core-vendor-hardening": "8.9.14",
+                "drupal/core": "8.9.15",
+                "drupal/core-project-message": "8.9.15",
+                "drupal/core-vendor-hardening": "8.9.15",
                 "easyrdf/easyrdf": "0.9.1",
                 "egulias/email-validator": "2.1.17",
                 "guzzlehttp/guzzle": "6.5.4",
@@ -5489,7 +5489,7 @@
                 "laminas/laminas-zendframework-bridge": "1.0.4",
                 "masterminds/html5": "2.3.0",
                 "paragonie/random_compat": "v9.99.99",
-                "pear/archive_tar": "1.4.12",
+                "pear/archive_tar": "1.4.13",
                 "pear/console_getopt": "v1.4.3",
                 "pear/pear-core-minimal": "v1.10.10",
                 "pear/pear_exception": "v1.0.1",
@@ -5530,7 +5530,7 @@
                 "behat/mink-goutte-driver": "v1.2.1",
                 "behat/mink-selenium2-driver": "v1.4.0",
                 "composer/ca-bundle": "1.2.7",
-                "composer/composer": "1.10.6",
+                "composer/composer": "1.10.22",
                 "composer/spdx-licenses": "1.5.3",
                 "composer/xdebug-handler": "1.4.1",
                 "doctrine/instantiator": "1.0.5",
@@ -5586,7 +5586,7 @@
             ],
             "description": "Locked core dependencies",
             "abandoned": "drupal/core-recommended",
-            "time": "2021-04-21T17:01:16+00:00"
+            "time": "2021-05-05T12:01:14+00:00"
         },
         {
             "name": "webflo/drupal-finder",
