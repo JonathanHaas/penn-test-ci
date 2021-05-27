@@ -1541,16 +1541,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "8.9.15",
+            "version": "8.9.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "4804cb039c1e21f841dc4eccb24dc4a90c8280c6"
+                "reference": "498effa27ae5111f53f04fbe80fd05369a88c53d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/4804cb039c1e21f841dc4eccb24dc4a90c8280c6",
-                "reference": "4804cb039c1e21f841dc4eccb24dc4a90c8280c6",
+                "url": "https://api.github.com/repos/drupal/core/zipball/498effa27ae5111f53f04fbe80fd05369a88c53d",
+                "reference": "498effa27ae5111f53f04fbe80fd05369a88c53d",
                 "shasum": ""
             },
             "require": {
@@ -1768,11 +1768,11 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2021-05-05T11:28:48+00:00"
+            "time": "2021-05-25T09:17:58+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "8.9.15",
+            "version": "8.9.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -1810,7 +1810,7 @@
         },
         {
             "name": "drupal/core-vendor-hardening",
-            "version": "8.9.15",
+            "version": "8.9.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-vendor-hardening.git",
@@ -5452,16 +5452,16 @@
         },
         {
             "name": "webflo/drupal-core-strict",
-            "version": "8.9.15",
+            "version": "8.9.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webflo/drupal-core-strict.git",
-                "reference": "2bcf5f59d160925b2bfb9d2972c70d265b54445e"
+                "reference": "f5511d79a65e5f26b614df06f071f125a8132e88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/2bcf5f59d160925b2bfb9d2972c70d265b54445e",
-                "reference": "2bcf5f59d160925b2bfb9d2972c70d265b54445e",
+                "url": "https://api.github.com/repos/webflo/drupal-core-strict/zipball/f5511d79a65e5f26b614df06f071f125a8132e88",
+                "reference": "f5511d79a65e5f26b614df06f071f125a8132e88",
                 "shasum": ""
             },
             "require": {
@@ -5474,9 +5474,9 @@
                 "doctrine/common": "v2.7.3",
                 "doctrine/inflector": "v1.2.0",
                 "doctrine/lexer": "1.0.2",
-                "drupal/core": "8.9.15",
-                "drupal/core-project-message": "8.9.15",
-                "drupal/core-vendor-hardening": "8.9.15",
+                "drupal/core": "8.9.16",
+                "drupal/core-project-message": "8.9.16",
+                "drupal/core-vendor-hardening": "8.9.16",
                 "easyrdf/easyrdf": "0.9.1",
                 "egulias/email-validator": "2.1.17",
                 "guzzlehttp/guzzle": "6.5.4",
@@ -5586,7 +5586,7 @@
             ],
             "description": "Locked core dependencies",
             "abandoned": "drupal/core-recommended",
-            "time": "2021-05-05T12:01:14+00:00"
+            "time": "2021-05-26T18:31:09+00:00"
         },
         {
             "name": "webflo/drupal-finder",
